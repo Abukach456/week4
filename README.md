@@ -6,7 +6,8 @@ First what are we going to do is to start with an Arduino to read anloge and deg
  2- 10K resistor
  3- and ofcoures a light sensor
  
- and the code was:
+ and the code for anloge signils (im1 and im2)
+ but for the digtil code its in (im3) and (im4)
  
  void setup() {
   // initialize serial communication at 9600 bits per second:
